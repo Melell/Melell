@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.miguel-echeverria.com" target="blank"><img align="center" src="images/website.svg" alt="miguel_echeverria" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miguel-echeverria-majadas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCU7kYy_D3UsaLmHRGg5A0tw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miguel echeverria" height="30" width="40" /></a>
+<a href="https://www.miguel-echeverria.com" target="_blank"><img align="center" src="images/Website.svg" alt="miguel_echeverria" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/miguel-echeverria-majadas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCU7kYy_D3UsaLmHRGg5A0tw" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="miguel echeverria" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages / APIs:</h3>
