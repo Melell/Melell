@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Miguel Echeverria</h1>
-<h3 align="center">A passionate and driven C++ game generalist programmer</h3>
+<h3 align="center">A passionate C++ gameplay programmer at Playground Games</h3>
 
 - 👨‍💻 All of my projects are available in [my webpage](https://www.miguel-echeverria.com)
 
