@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Other Software:</h3>
 <p align="left">
+    <a href="https://hex-rays.com/" target="_blank" rel="noreferrer"> <img src="images/ida.png" alt="IDA" width="40" height="40"/> </a>
     <a href="https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription&plc=3DSMAX" target="_blank" rel="noreferrer"> <img src="images/3dsmax.png" alt="3dsmax" width="40" height="40"/> </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
     <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="images/audacity.png" alt="audacity" width="40" height="40"/> </a>
