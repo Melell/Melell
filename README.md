@@ -54,6 +54,8 @@ Here are some ideas to get you started:
     <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="images/github.png" alt="github" width="40" height="40"/> </a>
     <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="images/gitlab.png" alt="gitlab" width="40" height="40"/> </a>
     <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="images/gitkraken.png" alt="gitkraken" width="40" height="40"/> </a>
+    <a href="https://www.perforce.com/products/helix-core" target="_blank" rel="noreferrer"> <img src="images/helix-core.png" alt="helix-core" width="40" height="40"/> </a>
+    <a href="https://www.perforce.com/downloads/helix-visual-client-p4v" target="_blank" rel="noreferrer"> <img src="images/p4v.png" alt="p4v" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">IDEs / Editors:</h3>
