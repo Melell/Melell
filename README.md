@@ -38,25 +38,18 @@ Here are some ideas to get you started:
     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
     <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="images/opengl.png" alt="opengl" width="40" height="40"/> </a>
     <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Game Engines:</h3>
 <p align="left">
     <a href="https://en.wikipedia.org/wiki/Forza#ForzaTech" target="_blank" rel="noreferrer"> <img src="images/forza-logo.png" alt="forzatech" width="40" height="40"/> </a>
     <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="images/unreal-engine.png" alt="unreal" width="40" height="40"/> </a>
-    <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="images/unity.png" alt="unity" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Version Control (+Clients):</h3>
+<h3 align="left">Version Control:</h3>
 <p align="left">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="images/github.png" alt="github" width="40" height="40"/> </a>
-    <a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"> <img src="images/gitlab.png" alt="gitlab" width="40" height="40"/> </a>
-    <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="images/gitkraken.png" alt="gitkraken" width="40" height="40"/> </a>
     <a href="https://www.perforce.com/products/helix-core" target="_blank" rel="noreferrer"> <img src="images/helix-core.png" alt="helix-core" width="40" height="40"/> </a>
-    <a href="https://www.perforce.com/downloads/helix-visual-client-p4v" target="_blank" rel="noreferrer"> <img src="images/p4v.png" alt="p4v" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">IDEs / Editors:</h3>
@@ -70,6 +63,4 @@ Here are some ideas to get you started:
 <p align="left">
     <a href="https://hex-rays.com/" target="_blank" rel="noreferrer"> <img src="images/ida.png" alt="IDA" width="40" height="40"/> </a>
     <a href="https://www.autodesk.com/products/3ds-max/overview?term=1-YEAR&tab=subscription&plc=3DSMAX" target="_blank" rel="noreferrer"> <img src="images/3dsmax.png" alt="3dsmax" width="40" height="40"/> </a>
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-    <a href="https://www.audacityteam.org/" target="_blank" rel="noreferrer"> <img src="images/audacity.png" alt="audacity" width="40" height="40"/> </a>
 </p>
